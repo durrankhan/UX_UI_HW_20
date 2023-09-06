@@ -151,11 +151,3 @@ h1 {
     padding-left: 300px;
 }
 
-.heroImg.,
-.mySkills,
-.myWork,
-.contactMe {
-    display: flex;
-    gap: 16px;
-    padding: 64px;
-}
