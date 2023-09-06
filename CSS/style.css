@@ -147,6 +147,15 @@ h1 {
 }
 
 .contactInfo {
-    padding:75px;
+    padding: 75px;
     padding-left: 300px;
+}
+
+.heroImg.,
+.mySkills,
+.myWork,
+.contactMe {
+    display: flex;
+    gap: 16px;
+    padding: 64px;
 }
